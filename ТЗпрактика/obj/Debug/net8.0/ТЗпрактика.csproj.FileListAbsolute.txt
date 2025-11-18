@@ -1,0 +1,14 @@
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ТЗпрактика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ТЗпрактика.AssemblyInfoInputs.cache
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ТЗпрактика.AssemblyInfo.cs
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ТЗпрактика.csproj.CoreCompileInputs.cache
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\bin\Debug\net8.0\ТЗпрактика.exe
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\bin\Debug\net8.0\ТЗпрактика.deps.json
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\bin\Debug\net8.0\ТЗпрактика.runtimeconfig.json
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\bin\Debug\net8.0\ТЗпрактика.dll
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\bin\Debug\net8.0\ТЗпрактика.pdb
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ТЗпрактика.dll
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\refint\ТЗпрактика.dll
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ТЗпрактика.pdb
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ТЗпрактика.genruntimeconfig.cache
+C:\Users\Вчеслав\Desktop\Proejects\ТЗпрактика\ТЗпрактика\obj\Debug\net8.0\ref\ТЗпрактика.dll
